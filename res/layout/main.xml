@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.tutorial.list3.MyListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_list"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000"
+>
+</com.sonyericsson.tutorial.list3.MyListView>
